@@ -1,1 +1,1 @@
-# temporal-link-prediction
+# Temporal Link Prediction using Tensor Factorization
