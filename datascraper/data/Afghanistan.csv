@@ -1,0 +1,175 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,969675693,,,4
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3172335,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30675,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1350268,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23323,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1085767,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,446737044,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,322,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2862,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,68786954,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,274467,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1247,,,4
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31667,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22683,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,631030,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7732144,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1222014,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,843539,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31085,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1029730,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,130443,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33669661,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,283355,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,308126552,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6957,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,833693,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7175073,,,0
+H4,2018,2018,2018,2,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,86440789,,,4
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1944548257,,,4
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,48060181,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,51866,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,47950351,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1686279,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,158436,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1459,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,268,Georgia,GEO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4836510,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,287007,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5891184,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,533315278,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,891,,,4
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42148,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,70038134,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,540615,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30183,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,47126,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,64766,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,259173,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,114175112,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1526168,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,401990,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,214,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1160455,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25581,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,231021,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,34720803,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,426501,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,585020873,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,156628,,,4
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,386546818,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,54177196,,,0
+H4,2019,2019,2019,2,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52717295,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,923541847,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,3057364,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,28910,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,77602,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1314332,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,5056,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,862460,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,424706604,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,322,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,9188,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,63309788,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,413322,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,89791,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,533,Aruba,ABW,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,338,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1295170,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,18512,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,9113598,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,980518,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,884629,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,130,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,593055,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,229,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,71163,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,43213971,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,194639,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,296059625,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,15076,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,1123901,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,22842776,,,0
+H2,2017,2017,2017,2,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,0,,,,0,,53259764,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1517526125,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1345183,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1235673,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,51554973,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,64041309,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,47553,,,0
+H2,2012,2012,2012,2,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1399301434,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1452547655,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,775142,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,465454,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,378765963,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5432410,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34125,,,0
+H2,2013,2013,2013,2,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1067074561,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1488624239,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,761315,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,557614,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,498250581,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3971721,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,137975,,,0
+H2,2014,2014,2014,2,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,984945033,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1637956960,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,35948383,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,44611,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,881,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2402423,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,795387,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,67210,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,821117496,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,408894,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30795,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,32524061,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,404,Kenya,KEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,57447,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,294388,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2053461,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20800,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,97415134,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2870,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24784908,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,74295,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,696760,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,159259,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4252433,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29636914,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,821123,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,563194835,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28547,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16720,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1079,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,173184,,,0
+H2,2015,2015,2015,2,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20932662,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1008081868,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13843606,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,54250,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,691,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,748703,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26403,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4711,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,956487,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,387795,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,575232327,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,50750,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16177,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,44458548,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,104594,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34822760,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24078,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14690209,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1296,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23846793,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1856731,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,281053,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1074803,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,329815,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10709,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,32675689,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,457969,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,237992023,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1083918,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,196461,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,970251,,,0
+H2,2016,2016,2016,2,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21882244,,,0

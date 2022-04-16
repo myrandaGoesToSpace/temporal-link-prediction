@@ -1,0 +1,518 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,14135574176,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,176497188,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,583,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1298862,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,110997889,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,105958531,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,204089,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9448430,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3574171474,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,54677,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,306748,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7728,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12979,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1090,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,796810,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,268,Georgia,GEO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4258,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2403511,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,228502,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,316,Guam,GUM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,988,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3683083,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1908227023,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,923930,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2038395,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,532710,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,141069069,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2261512477,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,790464046,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,323756,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3285,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,884217845,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,470,Malta,MLT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45927,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,43657,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39063210,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,55007085,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,278545,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52692,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,59242945,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1713,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13734291,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2125949,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,604,Peru,PER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4228646,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,471496,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52826076,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,136876279,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,976179018,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,310869158,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1029926994,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,146305350,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6602,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,195406,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,595046,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,85299,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,962881,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,91779983,,,4
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1144103075,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,136354,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39207,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,201054,,,0
+H5,2019,2019,2019,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,94800282,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8290775112,,,4
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18745682,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45870924,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,392,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,228011,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,863644,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,28194457,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,167638493,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5932,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,246112,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1633135596,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,103566,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,214106,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,84280,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5773,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,572083,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1676419,,,4
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,163061,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,316,Guam,GUM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,362,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4370529,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1534962626,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,93973,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,64,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,597284,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36747922,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,953832666,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,465349771,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,643284642,,,4
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,470,Malta,MLT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,40865,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,46915,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,114549977,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7979540,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,396899,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4430,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,562,Niger,NER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13483,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,109630586,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,139490,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,86474348,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,202960543,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,522355847,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,306540608,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,839593757,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13730,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,94997618,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,118134,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,449034,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,133168,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1043637,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,76174642,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,266038492,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,84453,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,28511,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,223780,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,90959543,,,0
+H5,2020,2020,2020,2,0,1,Import,608,Philippines,PHL,858,Uruguay,URY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32794683,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15480615466,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,97458797,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1093,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12867439,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,111757,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,159494511,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,597,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,498989,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1275541,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,421287648,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29398,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,511972,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2574399652,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,94164,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29417,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,767048,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1954734,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,365813,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5318329,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2793843170,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,124955,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,70089112,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,370,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9250,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6987,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,232354431,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1878630828,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50121534,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39579,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,74728,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1072268978,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18528,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,304438985,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,239282798,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18193404,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4656,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25496678,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,547,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,180747,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2060886,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1471599,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,65131,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,101013756,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18026562,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2127222358,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,402982041,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1458024880,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83833176,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12486852,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,124453,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,81216,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,79806,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,508575400,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,740300610,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,107625,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32822,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,550,,,0
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,242726,,,4
+H5,2021,2021,2021,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,62235853,,,4
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11443069806,,,4
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29463473,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4588500,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,230188926,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1942,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2696455,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,589642,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,32958224,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24186,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,126696,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2024638618,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,149678,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18856,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13304148,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45802,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5219,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1193871,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1557176,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16743163,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1443261538,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,961403,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2572,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,461138,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,280659683,,,4
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1665154323,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1064924114,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39666,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,634,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,568553860,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,470,Malta,MLT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45234,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,48362,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,192433302,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,39459689,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26512460,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,47762,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,778,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,86086110,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,95207634,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,604,Peru,PER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3472527,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,118853,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,121028,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,256011596,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,105249313,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1156633896,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,337608958,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,784790306,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,50605054,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13679,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,314430,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,356574,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,113801,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,786277,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,107717325,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,734749906,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,177922,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2893945,,,0
+H4,2017,2017,2017,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,79179579,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13887005931,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13439344,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4980000,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,197489250,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3312,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,859396,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22649600,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,200517,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8666750,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2265639651,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,354366,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,38989,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13491762,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20994,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1225472,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1624294,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16206946,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1627208846,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1867329,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,38,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,156643,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,200936365,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2238786126,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1385209720,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,156258,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13770,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,752177973,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,59057,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,144739891,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,69518027,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1891455,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2049,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33684998,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,344,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25849501,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9802689,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1064249,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,209180228,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,163570985,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1685869233,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,690,Seychelles,SYC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36357,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,247626445,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,725235307,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,101783130,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15545,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,210272,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,429439,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,116300,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1685219,,,4
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,161211400,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1459614575,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,183588,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,79788,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,87554,,,0
+H4,2018,2018,2018,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,90054589,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14313273343,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19175110,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,62308053,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,145855,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2903,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,46437741,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4207,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,526584331,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3346,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,823474,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,676103,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,86391529,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,843525371,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,122611921,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1878,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11870,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,82178199,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1762438904,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14418127,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,381278741,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,480,Mauritius,MUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,35190,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8020798,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1923857691,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8196488,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,171253,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7912479,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2395153,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7702,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,640782361,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,899669736,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3420238060,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5282671,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1018512797,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4199650,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,325870,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,531680,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,66079,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,494013792,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1914604970,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5265,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,58568,,,0
+H2,2012,2012,2012,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15367427,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13613361818,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4508,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20993769,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2116584,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,81074,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,117864,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,132304,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,872999642,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,509222,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,69916,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,614472,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1019445,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,316,Guam,GUM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,186,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7293076,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,844405492,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1760526,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31225,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1514,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,200442,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,81984062,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1845984194,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,82903490,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,332944707,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1810472222,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33688674,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1480475,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3628025,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11701,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1021517994,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1217897018,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2799865550,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,690,Seychelles,SYC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,47374,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21807986,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1179565375,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,35348926,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,249764,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,188400,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1020416,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,245278798,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1016940081,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,71946,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,37422,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,198711,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8653706,,,0
+H2,2013,2013,2013,2,0,1,Import,608,Philippines,PHL,887,Yemen,YEM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,119223540,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13646218425,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22938858,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,340155,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,69711520,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,197,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1001652168,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,498210,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16285,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10647,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1198121,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12486,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36609742,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,783274520,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1597345,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,762,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,36173,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,69139,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,18055335,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2328110226,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12415927,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,588525676,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1671882715,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,607873,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,381805,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15605422,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20153414,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,405676,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,598112624,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,958152454,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3192076058,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,688,Serbia,SRB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,27043,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,129394395,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,935046285,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,90712929,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,157697,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,104195,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,61489,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,342,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,366562547,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,790724236,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,232953,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,290673,,,0
+H2,2014,2014,2014,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10452108,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8325172163,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,79955531,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,301,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,336085,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,104,Myanmar,MMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5018,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,65071,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,482414252,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,178,Congo,COG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5135775,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1064,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,428022,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3752541,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,930684,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,603325156,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1393433,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15661127,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,133080463,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3424243,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,964512262,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,759042799,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21926,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,552204653,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10404,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,775669217,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,126707,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,926478,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,956734,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9122589,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4700,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15994398,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,78756,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,326452495,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,271343336,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1813197906,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,254594379,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,627029077,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,52369286,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5295,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,73599,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,206052,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,145263,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1049989,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,141144307,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,405357062,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,165779,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1494171,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,383464,,,0
+H2,2015,2015,2015,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,21580313,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8377125548,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1708713,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,20,Andorra,AND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,44725,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,188902,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110010578,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,146812,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,96,Brunei Darussalam,BRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,13560007,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,352884,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1225213962,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,178,Congo,COG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3436,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,173901,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,61035,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9029,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,790342,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1118483,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,316,Guam,GUM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4247,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5976909,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,934984031,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,952044,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,376,Israel,ISR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,103129,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17483796,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,267819550,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,408,Dem. People's Rep. of Korea,PRK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24378786,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,942366015,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1007324631,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,45600,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,395624161,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,60407,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,410479313,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20316225,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1094168,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,554,New Zealand,NZL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3831,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24045416,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,586,Pakistan,PAK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,43951442,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,598,Papua New Guinea,PNG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,47140790,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,973894,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,75976,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,149806241,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,112060710,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1025858178,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,230144288,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,664866972,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,67545679,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20810,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24735,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,625895,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,111914,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,711490,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,86845731,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,522440614,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,97516,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1073927,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,239381,,,0
+H2,2016,2016,2016,2,0,1,Import,608,Philippines,PHL,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16064297,,,0

@@ -1,0 +1,594 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7155883812,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,989066,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,508587991,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2738274,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,28084,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10457,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15185342,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37443742,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17497550,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33047,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2804407,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,120,Cameroon,CMR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,372,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,96831581,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3427704,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,184881,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,34517348,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,88140544,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,180333,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,602,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,96428,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,226,Equatorial Guinea,GNQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6976709,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4544058,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,97856602,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,98549202,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11496530,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,51030680,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,85,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,38594534,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,512461941,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,77658,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1466602,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25356175,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17545,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1497392,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3090855,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30607364,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2985,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,907000,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,65454249,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24264218,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,195569020,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5278462,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,91343763,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10689848,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,287759772,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1811312,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1946,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,540616675,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,366969021,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1324,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83777847,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1670353,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,26,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,54178410,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1712816152,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,103085591,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,43264,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,233599,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,58635489,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1212499,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,47876237,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,43480,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2452060,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,299988225,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1346765682,,,4
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16429925,,,0
+H5,2017,2017,2017,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,143683641,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8769997995,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57361,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,663154042,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7631553,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2857,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7166,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22104513,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,101598276,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25971146,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,36312,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22687,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,46454896,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3880581,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,140505,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24948619,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,542375,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13545381,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,262938,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,129857,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,116345,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5823781,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,286766769,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,91404824,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12797963,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,947,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,90919167,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,676868,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,572725008,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,225,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,53148,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,999809,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,123237,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,72093126,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,33132605,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37857451,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,55227,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,466,Mali,MLI,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,63,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2711711,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7226957,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22795979,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,228672643,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24480149,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,130931732,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5337,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1280322,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,170139062,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,840479,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20386981,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1179262657,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,609964426,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,652,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,688,Serbia,SRB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17794,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,110328557,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,815594,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,834,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,20532,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,43115000,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1693280644,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,126379325,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23583,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,53608,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,209020,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,94275133,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,500896,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21495812,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,527,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22227654,,,0
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,225635113,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1730008090,,,4
+H5,2018,2018,2018,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,186873513,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7939450440,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,460563,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,463453209,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,900,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,44,Bahamas,BHS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7622233,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,406032,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,67217914,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,791,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,35822,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42947,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4479892,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,110072,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,27863170,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,247445,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,153860,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,214,Dominican Rep.,DOM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,28098,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10292391,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,85836678,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,67187704,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12679207,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,87157731,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,348,Hungary,HUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,708,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6856549,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17252544,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,450873484,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11610,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,71942,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83240361,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3236032,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57152830,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16333595,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,59717193,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,446,"China, Macao SAR",MAC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,130,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,59068,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,470,Malta,MLT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,259,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2141763,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,416527,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,204509315,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,531,Curaçao,CUW,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4276665,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,90890291,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,591,Panama,PAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,35416,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16788028,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,203429765,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1370666,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,742916927,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,738454525,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,855,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,480518251,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,62171617,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,370,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,704,Viet Nam,VNM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,71694,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,46850479,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1466965095,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,108491721,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30759,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12976,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,251480,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,768,Togo,TGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,103176729,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3123702,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,161746339,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,78213025,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,235367,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,89454274,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,135748792,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1493401691,,,4
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,854,Burkina Faso,BFA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,71,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,8322561,,,0
+H5,2019,2019,2019,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,165349536,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5252585899,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1935370,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,357086097,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12588787,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,91148,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2919,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,134930,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,122975287,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,119061,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,110692,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5373773,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,152,Chile,CHL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2653971,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,228722,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,25947601,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,148813,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,766953,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2978770,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22286545,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,117466380,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12961146,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24068129,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,360,Indonesia,IDN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3137849,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5217,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,353271054,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,31996,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2788541,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1254781,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3463523,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1776089,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2107000,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,16356936,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,4969570,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,45242,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,21956020,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,512,Oman,OMN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,891603,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,175891461,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,9790666,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,95147787,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52428,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2813152,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,100743265,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2398593,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5162393,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,977644399,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,401849660,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,686,Senegal,SEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2687,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,688,Serbia,SRB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1921,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,83921888,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1346847,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,64903,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3669072,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1084377310,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42187681,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22203,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,72946,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,229520,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3694688,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,11266837,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,27498765,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,52661,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,37571421,,,0
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,68944073,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,951659271,,,4
+H5,2020,2020,2020,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,42526856,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6790131830,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,8,Albania,ALB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,913154,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,757404280,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,13131742,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30341,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,44,Bahamas,BHS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,17279238,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,69374765,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,30321,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,24877,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,65633268,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1312050,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15536986,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,967979,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,196,Cyprus,CYP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,53313,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,135756,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,61992,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1261806,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,5929424,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,62918690,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,266,Gabon,GAB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,337,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10061529,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,15217145,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,364,Iran,IRN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,12,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,371935170,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,232282120,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,309,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,23144,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3983470,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,178570195,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1661935,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,210,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,86733,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2541,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,145615742,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,10232283,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,34692367,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,22433568,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,225804852,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3750865,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6046192,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1134577537,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,473435312,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19751298,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,601577,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,3458,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,19232,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,341853773,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1142207679,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,29119910,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,105974,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,147172,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,48199,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,2033791,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,57861491,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,138107,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,7410386,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,6011633,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,18198586,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,199073419,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,848269613,,,4
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,113666633,,,0
+H4,2015,2015,2015,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,121196298,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,5552773199,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,589430865,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1849997,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,39952,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,64253,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,58836834,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37676761,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,17123,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,21856,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,87980927,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2102035,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,163792,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20437151,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,191,Croatia,HRV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4148,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,141416,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,204,Benin,BEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,37,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,58682,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1669300,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,23701209,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,69041565,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,266,Gabon,GAB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,133,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,10965193,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,52220217,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,76235,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,288311258,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44116,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1185419,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,41005,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,940816,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,7872341,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1718752,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,35814,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,19307124,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1499,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,261937876,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,8432062,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,11862619,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,604,Peru,PER,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,4705698,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,24123890,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,297215686,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1315381,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1804538,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,413424658,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,378535033,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,140454189,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,12777991,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,3236,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,705,Slovenia,SVN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,15863,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,159865576,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,1232782357,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,93935593,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,58722,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,85561,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,50748,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,768,Togo,TGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,416,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,2300182,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,170641875,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,44831,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,43003332,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,795,Turkmenistan,TKM,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20240,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,20874759,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,125364918,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,654820308,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,100762605,,,0
+H4,2016,2016,2016,2,0,1,Import,504,Morocco,MAR,899,"Areas, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,,,,,,,115594634,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12356543727,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1071045477,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7069401,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12490142,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2607,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,68397809,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,60,Bermuda,BMU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3078671,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,29665,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17119017,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,459864020,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,75986803,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,147607,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,331489,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,56353448,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1413192,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5508345,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,120802224,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7296743,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14330348,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,324,Guinea,GIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,631,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1161916103,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,258088965,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,39085,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,398,Kazakhstan,KAZ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,140887544,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,404,Kenya,KEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,209,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4627170,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,314280,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,68467369,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10642112,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1413226,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10605,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,305,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,470,Malta,MLT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,31133969,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,113,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2906602,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,128353,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,119011070,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,175233826,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,146667000,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2842138,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,78805929,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33055,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,9424591,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1809109531,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2176573020,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40370177,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20161634,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,703,Slovakia,SVK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17576204,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1992509694,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,48713224,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,376085,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,760,Syria,SYR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10960,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,37,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3027602,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,200495446,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4885444,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4100954,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110466568,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,56788831,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,407727960,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1262271322,,,0
+H2,2012,2012,2012,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,67517752,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12143509176,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1240683119,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,24,Angola,AGO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3198961,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,17513518,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,22213,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1475,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,62315890,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,56969,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,238317129,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,34290116,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,873106,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,152,Chile,CHL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1208,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,155057,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,54963,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,20060731,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1270556,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,14888489,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,187120155,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,266,Gabon,GAB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,203,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,6927040,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,288,Ghana,GHA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19436810,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,80274827,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,352,Iceland,ISL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5307463,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1355324108,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,350745806,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,609,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,32532,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,823285,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15358955,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,16074988,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,434,Libya,LBY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4387093,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1833058,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,5063,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,174723,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,478,Mauritania,MRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12635,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,484,Mexico,MEX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,520,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,909,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,129643036,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40165258,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,66598456,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,37395021,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,220264038,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,634,Qatar,QAT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,39585,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25693090,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1484487752,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2151585526,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,130568907,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,23975,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,41492788,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1805612161,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19974928,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,156481,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,119,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7210926,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4355113,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11654997,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3907300,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,116402430,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,60509973,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,232728673,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1849782856,,,0
+H2,2013,2013,2013,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,25711494,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,11067091760,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,12,Algeria,DZA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1288528061,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,32,Argentina,ARG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,24206459,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,36,Australia,AUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,12037,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,40,Austria,AUT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3988,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,44,Bahamas,BHS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,77958179,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,48,Bahrain,BHR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,28955,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,56,Belgium,BEL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,214283374,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,76,Brazil,BRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,117413,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,100,Bulgaria,BGR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,15385799,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,112,Belarus,BLR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,70429797,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,124,Canada,CAN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,287939,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,144,Sri Lanka,LKA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1671523,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,152,Chile,CHL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3860431,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,156,China,CHN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,172454,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,170,Colombia,COL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,91124804,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,203,Czechia,CZE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,305313,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,208,Denmark,DNK,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,121576,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,233,Estonia,EST,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,30950087,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,246,Finland,FIN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2828129,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,126609029,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,276,Germany,DEU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,57581085,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,292,Gibraltar,GIB,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,33308131,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,300,Greece,GRC,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4449662,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,344,"China, Hong Kong SAR",HKG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19021,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,368,Iraq,IRQ,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,856924247,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,372,Ireland,IRL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,110,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,381,Italy,ITA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,192387907,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,384,Côte d'Ivoire,CIV,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2106,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,392,Japan,JPN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,40912,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,410,Rep. of Korea,KOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2830321,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,414,Kuwait,KWT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,49548193,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,428,Latvia,LVA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1634412,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,440,Lithuania,LTU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1742799,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,442,Luxembourg,LUX,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,292,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,450,Madagascar,MDG,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,7,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,458,Malaysia,MYS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,240472,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,490,"Other Asia, nes",,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4726,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,528,Netherlands,NLD,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,378704982,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,533,Aruba,ABW,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2280935,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,566,Nigeria,NGA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,19157854,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,579,Norway,NOR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,8711422,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,616,Poland,POL,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,53252891,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,620,Portugal,PRT,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,70763261,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,642,Romania,ROU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3145585,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,643,Russian Federation,RUS,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1311433308,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,682,Saudi Arabia,SAU,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1902176495,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,699,India,IND,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,69266546,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,702,Singapore,SGP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,391182,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,710,South Africa,ZAF,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,83480954,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,724,Spain,ESP,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1492896550,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,752,Sweden,SWE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,2507087,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,757,Switzerland,CHE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,10821394,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,764,Thailand,THA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,197,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,780,Trinidad and Tobago,TTO,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,26494110,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,784,United Arab Emirates,ARE,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4814335,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,788,Tunisia,TUN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,304470,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,792,Turkey,TUR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,3187130,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,804,Ukraine,UKR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,95413488,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,818,Egypt,EGY,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,4732252,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,826,United Kingdom,GBR,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,230711170,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,837,Bunkers,,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,197867437,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,842,USA,USA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,1856558082,,,0
+H2,2014,2014,2014,2,0,1,Import,504,Morocco,MAR,862,Venezuela,VEN,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation",1,No Quantity,,,,,,,88418898,,,0
